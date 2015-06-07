@@ -5,7 +5,7 @@ import "fmt"
 func main() {
   /* 
   
-  Es ist 1996 und du Fragst dich, 
+  Es ist 1996 und du fragst dich, 
   "Soll ich's wirklich machen oder laß ich's lieber sein? Jein ..." 
  
   - Fettes Brot, Jein -
